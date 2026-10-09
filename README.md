@@ -1,1 +1,1 @@
-Skrien. ir izzinoša interaktīva vietne, kas izveidota, lai nodotu sporta teorijas ieskaiti vieglatlētikā. Šeit var uzzināt par distancēm, skriešanas tehniku, iesildīšanos, vēsturi un slavenajiem skrējējiem, noskatīties prezentāciju un pārbaudīt zināšanas testā.
+
